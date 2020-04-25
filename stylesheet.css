@@ -1,0 +1,24 @@
+#logo {
+    padding: 40px;
+}
+
+ul {
+    list-style: none;
+    padding: 100px 0px 100px 5px;
+    background-color: black;
+    width: 120px;
+    margin: 0;
+    height: 600px;
+}
+
+li a{
+    display: block;
+    width: 50px;
+    padding: 20px;
+}
+
+a {
+    font-family: futura-pt, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
