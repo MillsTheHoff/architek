@@ -14,14 +14,18 @@ header {
     padding-left: 400px;
 }
 
+.under-overskrift {
+    padding: 20px 0px 20px 10px;
+}
+
 #logo {
     padding: 20px;
-    display: flex;
+    display: none;
 }
 
 ul {
     list-style: none;
-    padding: 100px 0px 100px 5px;
+    padding: 180px 0px 100px 5px;
     background-color: black;
     width: 120px;
     margin: 0;
@@ -43,10 +47,17 @@ li a{
 li a:hover {
     background-color: white;
     color: black;
+    width: 80px;
 }
 
 a {
     font-family: futura-pt, sans-serif;
     font-weight: 700;
+    font-style: normal;
+}
+
+p {
+    font-family: futura-pt, sans-serif;
+    font-weight: 300;
     font-style: normal;
 }
