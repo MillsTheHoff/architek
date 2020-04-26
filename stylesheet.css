@@ -11,7 +11,7 @@ header {
     display: inline-flex;
     text-decoration: none;
     color: black;
-    padding-left: 400px;
+    padding-left: 540px;
 }
 
 .under-overskrift {
@@ -60,4 +60,9 @@ p {
     font-family: futura-pt, sans-serif;
     font-weight: 300;
     font-style: normal;
+}
+
+video {
+    float: right;
+    margin-right: 200px;
 }
