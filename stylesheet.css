@@ -66,3 +66,30 @@ video {
     float: right;
     margin-right: 200px;
 }
+
+h2 {
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-variant-caps: all-small-caps;
+    font-size: 50px;
+    margin: -15px;
+}
+
+.wrap {
+    background-color: white;
+    height: 270px;
+    width: 300px;
+    margin: 340px 0px 0px 600px;
+    z-index: 1;
+    position: relative;
+}
+
+#bread-p {
+    font-size: 12px;
+    padding: 10px;
+    width: inherit;
+    height: inherit;
+    position: inherit;
+    z-index: 1;
+}
