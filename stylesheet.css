@@ -97,3 +97,38 @@ h2 {
     float: right;
     margin-right: 310px;
 }
+
+#fly-vid {
+    width: 20%;
+    float: right;
+    margin-top: -570px;
+}
+
+#golden {
+    width: 20%;
+}
+
+#quote-realestate {
+    font-family: futura-pt, sans-serif;
+    font-weight: 800;
+    font-style: italic; 
+    font-size: 65px;
+    
+    margin-right: 265px;
+    float: right;
+} 
+
+#p-real {
+    float: right;
+    margin-top: 180px;
+    margin-right: -370px;
+}
+
+@keyframes fadeIn { 
+  from { opacity: 0; } 
+}
+
+.animate-fade {
+    animation: fadeIn 1s infinite alternate;
+}
+
