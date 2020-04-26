@@ -73,23 +73,27 @@ h2 {
     font-style: normal;
     font-variant-caps: all-small-caps;
     font-size: 50px;
-    margin: -15px;
 }
 
 .wrap {
     background-color: white;
     height: 270px;
     width: 300px;
-    margin: 340px 0px 0px 600px;
+    margin: 330px -100px 0px 20px;
     z-index: 1;
     position: relative;
+    float: right;
 }
 
 #bread-p {
     font-size: 12px;
-    padding: 10px;
-    width: inherit;
-    height: inherit;
+    padding: 0px;
+    width: 250px;
     position: inherit;
     z-index: 1;
+}
+
+.content {
+    float: right;
+    margin-right: 310px;
 }
